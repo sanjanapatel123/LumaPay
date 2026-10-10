@@ -115,8 +115,6 @@ GATEWAY_WEBHOOK_SECRET=your_webhook_secret
 FRONTEND_URL=http://localhost:3000
 ```
 
-Replace the placeholder values with your own configuration. Never commit real credentials or secrets to GitHub.
-
 ### 3. Seed the Database
 
 Run the seed script from the backend folder:
